@@ -1,0 +1,8 @@
+moviepy
+pydub
+requests
+websocket-client
+python-dotenv
+pysrt
+numpy
+ffmpeg-python

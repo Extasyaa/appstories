@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+out/
+build/
+piper_models/
+*.mp3
+*.wav
+*.mp4
